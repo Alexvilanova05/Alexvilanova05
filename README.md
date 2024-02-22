@@ -27,3 +27,5 @@ Estoy comprometido con la mejora continua. Actualmente, estoy explorando el mund
 Actualmente estoy cursando el programa de Desarrollo de Aplicaciones Multiplataforma (DAM) en La Salle.
 
 ¡Gracias por visitar mi perfil! ¡Hagamos del mundo de la programación un lugar más increíble juntos! 🚀
+
+![keloke](https://github.com/Alexvilanova05/Alexvilanova05/blob/main/JRk5.gif)
